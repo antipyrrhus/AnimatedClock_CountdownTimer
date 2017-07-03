@@ -1,1 +1,1 @@
-# AnimatedClock_CountdownTimer
+Uses JavaFX. Run ClockAnimation.java.
