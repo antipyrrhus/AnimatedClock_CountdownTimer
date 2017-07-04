@@ -1,1 +1,1 @@
-Uses JavaFX. Run ClockAnimation.java.
+Uses JavaFX. To run, execute ClockAnimation.
